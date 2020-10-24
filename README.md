@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**johannarexin/johannarexin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Johanna and I'm studying to become a front-end developer at Technigo Boot Camp :computer:.
 
-Here are some ideas to get you started:
+My background is within communications as account manager and project manager at various advertising agencies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love music :musical_note:   
+photography :camera:   
+and being in nature :deciduous_tree: :mount_fuji: :evergreen_tree:  :ocean:
+
+
+
+Would you like to get in touch?     :woman:             (Why isn't there an emoji with brown curly hair..?    :information_desk_person:)     
+Send me an email, johanna.rexin@gmail.com
