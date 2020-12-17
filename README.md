@@ -6,7 +6,7 @@ My background is within communications as account manager and project manager at
 
 I love music :musical_note:   
 photography :camera:   
-and being in nature :deciduous_tree: :mount_fuji: :evergreen_tree:  :ocean:
+and being in the nature :deciduous_tree: :mount_fuji: :evergreen_tree:  :ocean:
 
 
 
