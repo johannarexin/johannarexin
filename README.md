@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Johanna and I'm studying to become a front-end developer at Technigo Boot Camp :computer:.
-
-My background is within communications as account manager and project manager at various advertising agencies.
+I'm Johanna and I'm working as a frontend developer at Äventyret in Stockholm. :computer:.
 
 I love music :musical_note:   
 photography :camera:   
